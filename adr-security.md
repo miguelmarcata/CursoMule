@@ -9,11 +9,11 @@ Esto demuestra que es primordial poder prevenir este tipo de ataques en nuestros
 
 ## Decision
 
-Implementar medidas para prevenir inyecciones SQL en las aplicaciones MuleSoft mediante el uso de consultas parametrizadas y validación de entradas.
-Aplicar validación de esquemas utilizando el enrutador de APIkit o esquemas XML/JSON. 
-Proteger la API agregando tipos de datos y valores en la definición RAML.
-Realizar pruebas exhaustivas para asegurar que las modificaciones no introduzcan nuevos errores y que las medidas de seguridad funcionen como se espera.
-Implementar monitoreo continuo para detectar intentos de inyección SQL.
+- Implementar medidas para prevenir inyecciones SQL en las aplicaciones MuleSoft mediante el uso de consultas parametrizadas y validación de entradas.
+- Aplicar validación de esquemas utilizando el enrutador de APIkit o esquemas XML/JSON. 
+- Proteger la API agregando tipos de datos y valores en la definición RAML.
+- Realizar pruebas exhaustivas para asegurar que las modificaciones no introduzcan nuevos errores y que las medidas de seguridad funcionen como se espera.
+- Implementar monitoreo continuo para detectar intentos de inyección SQL.
 
 ## Status
 
