@@ -22,13 +22,13 @@ Aceptado.
 ## Consequences
 
 Beneficios:
-Mejora de Seguridad: Reducción significativa del riesgo de inyección SQL.
-Cumplimiento Normativo: Cumplimiento con normas y regulaciones de seguridad de datos.
-Confianza del Cliente: Aumento de la confianza de los clientes en la seguridad del sistema.
+- Mejora de Seguridad: Reducción significativa del riesgo de inyección SQL.
+- Cumplimiento Normativo: Cumplimiento con normas y regulaciones de seguridad de datos.
+- Confianza del Cliente: Aumento de la confianza de los clientes en la seguridad del sistema.
 
 Inconvenientes:
-Complejidad Adicional: Aumenta la complejidad del desarrollo y mantenimiento del código.
-Requiere Capacitación: Los desarrolladores necesitan estar capacitados en el uso de consultas parametrizadas y técnicas de validación/sanitización.
+- Complejidad Adicional: Aumenta la complejidad del desarrollo y mantenimiento del código.
+- Requiere Capacitación: Los desarrolladores necesitan estar capacitados en el uso de consultas parametrizadas y técnicas de validación/sanitización.
 
 ## Related documents
 
