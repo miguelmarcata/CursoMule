@@ -28,7 +28,7 @@ Beneficios:
 
 Inconvenientes:
 - Complejidad Adicional: Aumenta la complejidad del desarrollo y mantenimiento del código.
-- Requiere Capacitación: Los desarrolladores necesitan estar capacitados en el uso de consultas parametrizadas y técnicas de validación/sanitización.
+- Requiere Capacitación: Los desarrolladores necesitan estar capacitados en el uso de consultas parametrizadas y técnicas de validación.
 
 ## Related documents
 
